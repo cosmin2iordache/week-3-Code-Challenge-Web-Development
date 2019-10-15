@@ -1,0 +1,62 @@
+body {
+      text-align: center;
+  }
+
+  html {
+      color: -internal-root-color;
+  }
+
+  div {
+      display: block;
+  }
+
+  body {
+      display: block;
+      margin: 8px;
+  }
+
+  h1 {
+      font-family: 'Lobster', cursive;
+      display: block;
+      font-size: 2em;
+      margin-block-start: 0.67em;
+      margin-block-end: 0.67em;
+      margin-inline-start: 0px;
+      margin-inline-end: 0px;
+      font-weight: bold;
+  }
+
+  img {
+      border-style: none;
+      border-radius: 100%;
+      filter: grayscale(0);
+  }
+
+  h1 {
+      font-family: 'Lobster', cursive;
+  }
+  
+  .item {
+     text-align: 200px;
+     border-radius: 100%;
+     height: 240px;
+     width: 240px;
+  }
+  
+  img {
+      border-style: none;
+      border-radius: 100%;
+      filter: grayscale(0);
+  }
+  .container:hover{
+      filter: grayscale(1);
+      border-style: none;
+      border-radius: 100%;
+      transition: background-size 0.3s ease;
+      filter: grayscale(1);
+      transition: background-size 0.3s ease; 
+  }
+  
+   body {
+       text-align: center;
+   }
